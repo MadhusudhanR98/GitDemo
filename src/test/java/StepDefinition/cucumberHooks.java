@@ -8,6 +8,8 @@ public class cucumberHooks {
     @Before("@android")
     public void openTheBrowser(){
         System.out.println("&&&&&&&&&&&&&&&&&");
+        System.out.println("&&&&&&&&&&&&&&&&&");
+        System.out.println("&&&&&&&&&&&&&&&&&");
     }
 
     @After("@ios")
