@@ -9,11 +9,15 @@ public class cucumberHooks {
     public void openTheBrowser(){
         System.out.println("&&&&&&&&&&&&&&&&&");
         System.out.println("&&&&&&&&&&&&&&&&&");
-        System.out.println("&&&&&&&&&&&&&&&&&");
+        System.out.println("typo");
     }
 
     @After("@ios")
     public void closeTheBrowser(){
+
         System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!");
+        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!");
+        System.out.println("intellij push");
+
     }
 }
