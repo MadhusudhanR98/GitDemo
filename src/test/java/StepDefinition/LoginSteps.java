@@ -54,7 +54,7 @@ public class LoginSteps {
 
     @Then("login page is displayed")
     public void loginPageIsDisplayed() {
-        System.out.println("coming from gitdemo");
+
 
     }
 }

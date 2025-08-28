@@ -16,6 +16,6 @@ public class cucumberHooks {
     public void closeTheBrowser(){
         System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!");
         System.out.println("intellij");
-        System.out.println("coming from gitdemo");
+        System.out.println("coming from gitdemos");
     }
 }
