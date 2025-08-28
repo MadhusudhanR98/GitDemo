@@ -15,5 +15,6 @@ public class cucumberHooks {
     @After("@ios")
     public void closeTheBrowser(){
         System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!");
+        System.out.println("intellij");
     }
 }
