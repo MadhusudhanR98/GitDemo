@@ -15,6 +15,6 @@ public class cucumberHooks {
     @After("@ios")
     public void closeTheBrowser(){
         System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!");
-        System.out.println("coming from gitdemo");
+        System.out.println("intellij");
     }
 }
